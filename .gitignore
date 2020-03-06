@@ -1,0 +1,10 @@
+build
+CMakeLists.txt.user
+cmake/packages/MappingConfig.cmake
+cmake/packages/DefsConfig.cmake
+cmake/packages/FilteringConfig.cmake
+cmake/packages/ImageProcessingConfig.cmake
+cmake/packages/VisualizerConfig.cmake
+cmake/packages/UtilitiesConfig.cmake
+cmake/packages/libs_paths.txt
+new
